@@ -1,0 +1,23 @@
+body{
+	text-align: center;
+	background: linear-gradient(to right , #000000 , #FF0099);
+}
+
+h1 {
+	font-family: 'Montserrat' , sans-serif;
+	text-align: center;
+	margin-top: 2rem;
+	font-size: 2em;
+	letter-spacing: .5rem;
+}
+
+h2{
+	font-family: "Montserrat" , sans-serif;
+	text-align: center;
+	margin-top: 1rem;
+	font-size: 1em; 
+}
+
+input{
+	margin: 10px;
+}
